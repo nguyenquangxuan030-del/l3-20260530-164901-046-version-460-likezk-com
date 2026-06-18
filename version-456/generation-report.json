@@ -1,0 +1,16 @@
+{
+  "site_title": "推荐电视剧-推荐热门剧集片单合集-全集高清在线播放",
+  "logo": "高清剧集大全",
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "category_pages": 20,
+  "m3u8_sources_extracted": 20,
+  "top_level_pages": [
+    "index.html",
+    "library.html",
+    "categories.html",
+    "rankings.html",
+    "search.html"
+  ],
+  "image_references": "top-level 1.jpg to 150.jpg are referenced by cards, hero slides and detail covers"
+}
